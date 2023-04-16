@@ -1,0 +1,27 @@
+{
+  "name": "curso-js-moderno",
+  "version": "1.0.0",
+  "description": "Curso Js de Udemy, sobre Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casteandres93/JavaScript-Moderno-Gu-a-Definitiva-Construye-20-Proyectos.git"
+  },
+  "keywords": [
+    "javascript",
+    "udemy",
+    "code"
+  ],
+  "author": "Andres Castellanos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/casteandres93/JavaScript-Moderno-Gu-a-Definitiva-Construye-20-Proyectos/issues"
+  },
+  "homepage": "https://github.com/casteandres93/JavaScript-Moderno-Gu-a-Definitiva-Construye-20-Proyectos#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  }
+}
